@@ -3,12 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>exercicio 2</title>
+    <title>Me livrando da maldição</title>
 </head>
 <body>
-    <h1>Dados do servidor</h1>
-    <?php 
-    phpinfo();
-    ?>
+    <h1>
+      <?php 
+      echo "Ola mundo! \u{1F30E}";
+      ?>
+    </h1>
+    <p>Vamos tntar no livrar da maldição</p>
 </body>
 </html>

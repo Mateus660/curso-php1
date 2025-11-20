@@ -6,9 +6,10 @@
     <title>exercicio 2</title>
 </head>
 <body>
-    <h1>Dados do servidor</h1>
+    <h1>Exemplo php</h1>
     <?php 
-    phpinfo();
+    echo "Hoje é dia" . date(" d/M/Y");
+    echo "e a hora atual é" . date(" g:i:s"); 
     ?>
 </body>
 </html>
