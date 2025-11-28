@@ -10,7 +10,7 @@
     <?php 
     $num = 0x1A;
     echo "O valor da variavel é $num"; 
-    var_dump($num)
+    var_dump($num) 
     ?>
 </body>
 </html>
